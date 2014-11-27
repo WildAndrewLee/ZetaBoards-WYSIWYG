@@ -1,7 +1,7 @@
 /**
  * Copyright & License:
  * ZetaBoards WYSIWYG Text Editor by Andrew Lee
- * http://andrewleenj.com
+ * http://wildandrewlee.com
  * Released under the M.I.T license.
  * Please leave this copyright intact.
  * 
