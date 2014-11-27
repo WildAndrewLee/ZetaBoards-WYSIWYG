@@ -1,4 +1,5 @@
-opyright & License:
+/**
+ * Copyright & License:
  * ZetaBoards WYSIWYG Text Editor by Andrew Lee
  * http://andrewleenj.com
  * Released under the M.I.T license.
